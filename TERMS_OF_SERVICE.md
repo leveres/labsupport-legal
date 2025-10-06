@@ -73,14 +73,14 @@ You may NOT:
 ## 6. Intellectual Property
 
 ### 6.1 Ownership
-All content, features, and functionality of LabSupport are owned by Steven LeVere and protected by:
+All content, features, and functionality of LabSupport are owned by InnovativeCodeworks LLC and protected by:
 - United States and international copyright laws
 - Trademark laws
 - Patent laws
 - Other intellectual property rights
 
 ### 6.2 Trademarks
-LabSupport and associated logos are trademarks of Steven LeVere. Unauthorized use is prohibited.
+LabSupport and associated logos are trademarks of InnovativeCodeworks LLC. Unauthorized use is prohibited.
 
 ## 7. User Responsibilities
 
@@ -132,7 +132,7 @@ Our total liability shall not exceed the amount you paid for the App (if any).
 
 ## 10. Indemnification
 
-You agree to indemnify and hold harmless Steven LeVere, LabSupport, and affiliates from any claims, damages, losses, or expenses arising from:
+You agree to indemnify and hold harmless InnovativeCodeworks LLC, LabSupport, and affiliates from any claims, damages, losses, or expenses arising from:
 - Your use of the App
 - Your violation of these Terms
 - Your professional decisions or actions
@@ -207,9 +207,9 @@ We may modify these Terms at any time. Changes are effective upon posting. Conti
 
 For questions about these Terms:
 
-**Email**: sleverepfs@gmail.com  
-**Developer**: Steven LeVere  
-**Company**: StevenLeVere Labs
+**Email**: admin@InnovativeCodeworks.com  
+**Developer**: InnovativeCodeworks LLC  
+**Company**: InnovativeCodeworks LLC
 
 ---
 
@@ -229,5 +229,5 @@ For questions about these Terms:
 **Effective Date**: October 5, 2025  
 **App Version**: 1.0
 
-© 2025 Steven LeVere. All rights reserved.
+© 2025 InnovativeCodeworks LLC. All rights reserved.
 
